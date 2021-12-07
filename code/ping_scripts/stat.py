@@ -20,7 +20,7 @@ print (path_1)
 #print(path_2)
 min_1=min(path_1,path_2)
 print("Dynamic Route:")
-print (min1)
+print (min_1)
 
 if(min_1 == path_1):
 	print "1:2:2"
